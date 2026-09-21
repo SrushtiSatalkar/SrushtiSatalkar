@@ -18,39 +18,39 @@ A results-driven **Data Engineer** with 2+ years of production experience buildi
 
 ### 🛠️ Technical Ecosystem & Badges
 
-<nobr>
+<p align="left">
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="SQL" />
   <img src="https://shields.io" alt="GCP" />
   <img src="https://shields.io" alt="BigQuery" />
-</nobr>
-<br />
-<nobr>
   <img src="https://shields.io" alt="Airflow" />
   <img src="https://shields.io" alt="dbt" />
   <img src="https://shields.io" alt="Spark" />
   <img src="https://shields.io" alt="Git" />
-</nobr>
+</p>
 
 ---
 
 ### 📊 Engineering Output & Real-Time Stats
 
-| 📈 GitHub Engine Metrics | 🔥 Coding Commit Consistency |
-| :---: | :---: |
-| <img src="https://vercel.app" alt="Srushti's GitHub Stats" width="400px" /> | <img src="https://herokuapp.com" alt="GitHub Streak" width="400px" /> |
+<p align="left">
+  <img src="https://vercel.app" alt="Srushti's GitHub Stats" height="195px" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="195px" />
+</p>
 
 ### 🏆 Top Language Breakdown
-<img src="https://vercel.app" alt="Top Languages" width="450px" />
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" height="195px" />
+</p>
 
 ---
 
 ### 🌐 Let's Connect!
 <p align="left">
-  <a href="https://linkedin.com" target="blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="Srushti Satalkar LinkedIn" />
   </a>
-  <a href="https://leetcode.com" target="blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://shields.io" alt="Srushti Satalkar LeetCode" />
   </a>
 </p>
